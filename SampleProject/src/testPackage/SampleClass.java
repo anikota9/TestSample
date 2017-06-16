@@ -4,7 +4,7 @@ public class SampleClass {
 
 	public static void add(int a , int b){
 		int c =0 ;
-		 c =a +b ;
+		 c =a;
 		 System.out.println("sum is :" + c );
 		 
 	}
